@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OlafGG
-- 👀 I’m interested in programming and developing
+- 👀 I’m interested in programming and developing API, backend, frontend or fullstack
 - 🌱 I’m currently learning React.js, express.js, a lot of backend
 - 📫 How to reach me: baezauriel0@gmail.com
 
